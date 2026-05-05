@@ -51,17 +51,9 @@
     `highStress` (z ≤ -2). Thresholds defined in `trainer.py` and `predictor.py`.                                                                                 
 
   ## Outputs
-  - `artifacts` — joblib-pickled `{scaler, model, featureColumns}`.
-  - `test_predictions.xlsx` — per-window `tStart, tCenter, tEnd, zPred,                                                                                           
-    zClipped, zSmoothed, class`.                                                                                                                                  
-  - `figures/`:                                                                                                                                                   
-    - `fig1_training_performance.pdf`                                                                                                                             
-    - `fig2_test_prediction.pdf`                                                                                                                                  
-    - `fig3_feature_analysis.pdf`
-    - `fig4_model_comparison.pdf`                                                                                                                                 
-    - `fig5_per_sample_analysis.pdf`                                                                                                                              
-    - `shap_beeswarm_comparison.pdf`
-    - `shap_decision.pdf`                                                                                                                                         
+  - `artifacts`.
+  - `test_predictions.xlsx`.                                                     
+  - `figures/`.                                                                                                                                       
                   
   ## Running                                                                                                                                                      
                   
