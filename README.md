@@ -8,8 +8,7 @@
                                                                                                                                                                   
   Each training recording yields one labeled example: multi-channel                                                                                   
   physiology paired with a single behavioral z-score. A regression model is
-  trained on hand-engineered statistical features and evaluated with leave-one-out                                                                                
-  cross-validation across recordings. The selected model is then re-fit on all                                                                                    
+  trained on hand-engineered statistical features and evaluated with leave-one-out cross-validation across recordings. The selected model is then re-fit on all                                                                                    
   training data and applied to a held-out continuous test recording in sliding                                                                                    
   windows to produce a time-resolved stress trace.                                                                                                                
                                                                                                                                                                   
