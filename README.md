@@ -67,7 +67,7 @@
    
   The pipeline (1) loads all `data/raw/*.xlsx`, (2) builds the feature matrix,                                                                                    
   (3) runs LOO-CV for every model in `Config.modelNames`, (4) re-fits
-  `Config.bestModel` on all data and saves `artifacts`, (5) runs sliding-window                                                                                   
+  `Config.bestModel` on all data and saves `artifacts`, (5) runs sliding-window 
   inference on `data/test_data.xlsx`, (6) writes `test_predictions.xlsx`, and
   (7) renders all figures.                                                                                                                  
                                                                                                                                                                   
