@@ -54,6 +54,11 @@
   - `test_predictions.xlsx`.                                                     
   - `figures/`.                                                                                                                                       
                   
+  ## Setup
+  ```bash
+  pip install -r Requirements.txt
+  ```
+  
   ## Running                                                                                                                                                      
                   
   ```bash
