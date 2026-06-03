@@ -87,7 +87,7 @@ cd VIBE
 
 # 3. (Optional) create and activate a virtual environment
 python3.12 -m venv .venv
-source .venv/bin/activate        # On Windows: .venv\Scripts\activate
+source .venv/bin/activate # On Windows: .venv\Scripts\activate
 
 # 4. Install dependencies
 pip install -r Requirements.txt
