@@ -1,0 +1,37 @@
+# Environments
+.venv/
+venv/
+ENV/
+
+# Folders
+/figures
+
+# Data & Results
+# *.txt
+*.mat
+*.pkl
+# *.xlsx
+*.edf
+*.locs
+*.csv
+*.adicet
+*.npz
+*.json
+*.pdf
+*.jsonl
+*.gz
+*.csv.gz
+*.zip
+*.png
+*.pt
+# *.md
+*.parquet
+._*
+tmp/
+*.docx
+
+
+# IDE & OS Specific
+.DS_Store
+.idea/
+__pycache__/
