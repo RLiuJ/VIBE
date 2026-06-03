@@ -1,6 +1,6 @@
 # VIBE
 
-[![License: MIT](https://img.shields.io/github/license/RLiuJ/VIBE)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/RLiuJ/VIBE?cacheSeconds=300)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/RLiuJ/VIBE)](https://github.com/RLiuJ/VIBE/commits)
 [![Open Issues](https://img.shields.io/github/issues/RLiuJ/VIBE)](https://github.com/RLiuJ/VIBE/issues)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/)
